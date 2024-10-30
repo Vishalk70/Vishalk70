@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coder" width="400" src="https://github.com/user-attachments/assets/351c55f3-d5e5-499e-bca1-d6b229eae4e0" />
+<img align="right" alt="coder" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalk70&label=Profile%20views&color=0e75b6&style=flat" alt="vishalk70" /> </p>
 
